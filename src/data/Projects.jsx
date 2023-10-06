@@ -56,4 +56,13 @@ export const projects = [
     source: "https://github.com/Flor77/tic--tac--toe.git",
     visit: "https://js-weather-app-oeag.onrender.com",
   },
+  {
+    id: 7,
+    title: "Chuck Norris",
+    description: "Use the Chuck Norris API to create a random joke generator",
+    image: "img/chuck.jpg",
+    tags: ["JavaScript"],
+    source: "https://github.com/Flor77/tic--tac--toe.git",
+    visit: "https://letsdoingchucknorris.netlify.app/",
+  },
 ];
