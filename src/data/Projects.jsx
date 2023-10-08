@@ -51,7 +51,7 @@ export const projects = [
     title: "Weather App",
     description:
       "Get the current weather data from OpenWeatherMap and display the weather information according to the city ",
-    image: "img/weather.jpg",
+    image: "img/js-weather-app.png",
     tags: ["JavaScript", "Node.js"],
     source: "https://github.com/Flor77/tic--tac--toe.git",
     visit: "https://js-weather-app-oeag.onrender.com",
@@ -60,9 +60,19 @@ export const projects = [
     id: 7,
     title: "Chuck Norris",
     description: "Use the Chuck Norris API to create a random joke generator",
-    image: "img/chuck.jpg",
-    tags: ["JavaScript"],
+    image: "img/chuck2.png",
+    tags: ["React js"],
     source: "https://github.com/Flor77/tic--tac--toe.git",
     visit: "https://letsdoingchucknorris.netlify.app/",
+  },
+  {
+    id: 7,
+    title: "Age Calculator",
+    description:
+      "This age calculator app has one data input box, to pick date of birth. Click on calculate button to display the exact age till today.",
+    image: "img/age.png",
+    tags: ["JavaScript"],
+    source: "https://github.com/Flor77/age-calculator.git",
+    visit: "https://77agecalc.netlify.app//",
   },
 ];
