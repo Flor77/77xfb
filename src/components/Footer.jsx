@@ -22,7 +22,7 @@ const Footer = () => {
           FB
         </span>
         <div className="social-media-icons">
-          <a
+          {/* <a
             href="https://www.linkedin.com/in/florinbuda77"
             target="_blank"
             rel="noopener noreferrer"
@@ -36,8 +36,8 @@ const Footer = () => {
                 }}
               />
             </i>
-          </a>
-          <a
+          </a> */}
+          {/* <a
             href="https://github.com/Flor77"
             target="_blank"
             rel="noopener noreferrer"
@@ -51,7 +51,7 @@ const Footer = () => {
                 }}
               />
             </i>
-          </a>
+          </a> */}
           <a
             href="https://www.facebook.com/florin.buda.35"
             target="_blank"
