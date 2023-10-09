@@ -1,12 +1,5 @@
 import Logo from "../assets/FB_3.png";
-import {
-  FaFacebook,
-  FaLinkedin,
-  FaGithub,
-  FaTwitter,
-  FaDiscord,
-  FaYoutube,
-} from "react-icons/fa";
+import { FaFacebook, FaTwitter, FaDiscord, FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -22,36 +15,6 @@ const Footer = () => {
           FB
         </span>
         <div className="social-media-icons">
-          {/* <a
-            href="https://www.linkedin.com/in/florinbuda77"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i>
-              <FaLinkedin
-                style={{
-                  color: "var(--clr-zinc)",
-                  width: "100%",
-                  height: "100%",
-                }}
-              />
-            </i>
-          </a> */}
-          {/* <a
-            href="https://github.com/Flor77"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i>
-              <FaGithub
-                style={{
-                  color: "var(--clr-zinc)",
-                  width: "100%",
-                  height: "100%",
-                }}
-              />
-            </i>
-          </a> */}
           <a
             href="https://www.facebook.com/florin.buda.35"
             target="_blank"

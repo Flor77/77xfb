@@ -75,4 +75,14 @@ export const projects = [
     source: "https://github.com/Flor77/age-calculator.git",
     visit: "https://77agecalc.netlify.app//",
   },
+  {
+    id: 8,
+    title: "Js Calculator",
+    description:
+      "This a calculator app, build using HTML CSS and JavaScript with basic functionality.",
+    image: "img/calc.png",
+    tags: ["JavaScript"],
+    source: "https://github.com/Flor77/js-calculator.git",
+    visit: "https://77jscalc.netlify.app/",
+  },
 ];
